@@ -1,0 +1,7 @@
+Roxo : #5c0d78;
+cinza: #545454bf;
+Amarelo : #F4CF0A;
+
+fundo-escuro : #0E0F10;
+fundo-rodape : #1A1C1F;
+fundo-cinza-escuro: #191b1d;
