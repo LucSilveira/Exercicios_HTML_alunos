@@ -1,0 +1,18 @@
+.img-fisica
+{
+  max-width: 600px;
+  min-width: 300px;
+  width: 200px;
+
+  max-height: 600px;
+  min-height: 300px;
+  height: 200px;
+
+  /* border-width: 2px;
+  border-color: orange;
+  border-style: solid; */
+  border: 2px solid orange;
+
+  border-radius: 10px 100px 1000px;
+  /* border-top-left-radius: 50px; */
+}

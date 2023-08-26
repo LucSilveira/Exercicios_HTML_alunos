@@ -1,0 +1,40 @@
+html{
+  background-color: #0e0e0e;
+}
+
+form{
+  width: 600px;
+  padding: 50px;
+  margin: 50px auto;
+  border-radius: 15px;
+  background-color: #FEFEFE;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+label{
+  width: 220px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+input{
+  width: 200px;
+  font-size: 18px;
+  border-radius: 8px;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+}
+
+button{
+  width: 100px;
+  border: none;
+  font-size: 18px;
+  border-radius: 8px;
+  padding: 10px 20px;
+  
+  color: #fefefe;
+  background-color: #421ceb;
+}
